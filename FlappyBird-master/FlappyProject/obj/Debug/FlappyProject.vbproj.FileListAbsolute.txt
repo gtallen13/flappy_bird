@@ -1,0 +1,139 @@
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.exe.config
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.exe
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.pdb
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.xml
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.exe
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.xml
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.pdb
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe.config
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.pdb
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.xml
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.exe
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.xml
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.pdb
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Principal.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe.config
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.pdb
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.xml
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Principal.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.exe
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.xml
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.pdb
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe.config
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.pdb
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.xml
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Principal.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.exe
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.xml
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.pdb
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Admin.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Jugador.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Login.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Marcador.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Salida.resources
+C:\Users\Usuario\Documents\.net\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CopyComplete
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe.config
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.pdb
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.xml
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Admin.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Jugador.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Login.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Marcador.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Principal.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Salida.resources
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CopyComplete
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.exe
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.xml
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.pdb
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe.config
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.pdb
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.xml
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.dll
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\Google.Protobuf.dll
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\Renci.SshNet.dll
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.xml
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Admin.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Jugador.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Login.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Marcador.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Principal.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Salida.resources
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CoreCompileInputs.cache
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CopyComplete
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.exe
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.xml
+D:\Documentos\ELVISR\Descargas\Mozilla Firefox\FlappyFuentecorregida\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.pdb
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.dll
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\Google.Protobuf.dll
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\Renci.SshNet.dll
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.xml
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Admin.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Jugador.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Login.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Marcador.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Salida.resources
+C:\Users\gusta\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Admin.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Jugador.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Login.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Marcador.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.Salida.resources
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.vbproj.CopyComplete
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.exe.manifest
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\bin\Debug\FlappyProject.application
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.TrustInfo.xml
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.exe.manifest
+C:\Users\Usuario\Desktop\FlappyBird-master\FlappyProject\obj\Debug\FlappyProject.application
